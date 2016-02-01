@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1453997655 source:/home/turupawn/Clases/Progra3Dragon/Herencia/Padre.cpp
+	"Padre.h"
+
+1453997886 /home/turupawn/Clases/Progra3Dragon/Herencia/Padre.h
+	<iostream>
+
+1453997341 source:/home/turupawn/Clases/Progra3Dragon/Herencia/main.cpp
+	<iostream>
+	"Hijo.h"
+
+1453997679 /home/turupawn/Clases/Progra3Dragon/Herencia/Hijo.h
+	"Padre.h"
+
+1453997740 source:/home/turupawn/Clases/Progra3Dragon/Herencia/Hijo.cpp
+	"Hijo.h"
+

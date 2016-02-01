@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1454342585 source:/home/turupawn/Clases/Progra3Dragon/Polimorfismo/Personaje.cpp
+	"Personaje.h"
+
+1454342646 /home/turupawn/Clases/Progra3Dragon/Polimorfismo/Personaje.h
+	<iostream>
+
+1454342328 source:/home/turupawn/Clases/Progra3Dragon/Polimorfismo/main.cpp
+	<iostream>
+	<vector>
+	"Guerrero.h"
+	"Mago.h"
+	"Arquero.h"
+
+1454341971 source:/home/turupawn/Clases/Progra3Dragon/Polimorfismo/Guerrero.cpp
+	"Guerrero.h"
+
+1454340979 /home/turupawn/Clases/Progra3Dragon/Polimorfismo/Guerrero.h
+	"Personaje.h"
+
+1454341982 source:/home/turupawn/Clases/Progra3Dragon/Polimorfismo/Arquero.cpp
+	"Arquero.h"
+
+1454341202 /home/turupawn/Clases/Progra3Dragon/Polimorfismo/Arquero.h
+	"Personaje.h"
+
+1454341976 source:/home/turupawn/Clases/Progra3Dragon/Polimorfismo/Mago.cpp
+	"Mago.h"
+
+1454341166 /home/turupawn/Clases/Progra3Dragon/Polimorfismo/Mago.h
+	"Personaje.h"
+

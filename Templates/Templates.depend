@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453910071 source:/home/turupawn/Clases/Progra3Dragon/Templates/main.cpp
+	<iostream>
+	<string.h>
+
