@@ -32,6 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Arquero.cpp" />
+		<Unit filename="Arquero.h" />
+		<Unit filename="Guerrero.cpp" />
+		<Unit filename="Guerrero.h" />
+		<Unit filename="Mago.cpp" />
+		<Unit filename="Mago.h" />
+		<Unit filename="Personaje.cpp" />
+		<Unit filename="Personaje.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

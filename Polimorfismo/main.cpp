@@ -13,8 +13,6 @@ int main()
     personajes.push_back(new Mago());
     personajes.push_back(new Arquero());
 
-
-
     for(int i=0;i<personajes.size();i++)
     {
         personajes[i]->atacar();
