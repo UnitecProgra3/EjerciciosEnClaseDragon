@@ -5,13 +5,17 @@
 
 using namespace std;
 
+template <typename T>
 class Nodo
 {
     public:
-        int valor;
+        T valor;
         Nodo*sig;
-        Nodo(int valor);
-        virtual ~Nodo();
+        Nodo(T valor)
+        {
+            this->valor = valor;
+            this->sig = NULL;
+        }
     protected:
     private:
 };

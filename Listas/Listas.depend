@@ -1,17 +1,17 @@
 # depslib dependency file v1.0
-1454514311 source:/home/turupawn/Clases/Progra3Dragon/Listas/Lista.cpp
+1454514882 source:/home/turupawn/Clases/Progra3Dragon/Listas/Lista.cpp
 	"Lista.h"
 
-1454513968 /home/turupawn/Clases/Progra3Dragon/Listas/Lista.h
+1454516412 /home/turupawn/Clases/Progra3Dragon/Listas/Lista.h
 	"Nodo.h"
 
-1454430481 source:/home/turupawn/Clases/Progra3Dragon/Listas/Nodo.cpp
+1454514907 source:/home/turupawn/Clases/Progra3Dragon/Listas/Nodo.cpp
 	"Nodo.h"
 
-1454514328 /home/turupawn/Clases/Progra3Dragon/Listas/Nodo.h
+1454514918 /home/turupawn/Clases/Progra3Dragon/Listas/Nodo.h
 	<iostream>
 
-1454513526 source:/home/turupawn/Clases/Progra3Dragon/Listas/main.cpp
+1454516350 source:/home/turupawn/Clases/Progra3Dragon/Listas/main.cpp
 	<iostream>
-	"Nodo.h"
+	"Lista.h"
 
