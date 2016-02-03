@@ -12,3 +12,11 @@
 	<fstream>
 	<math.h>
 
+1416523889 source:/home/turupawn/Clases/Progra3Dragon/EjerciciosArchivos/Evaluador.cpp
+	"Evaluador.h"
+
+1416523889 /home/turupawn/Clases/Progra3Dragon/EjerciciosArchivos/Evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+
