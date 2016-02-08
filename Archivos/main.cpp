@@ -15,11 +15,11 @@ int main()
 
     ifstream lectura("mi_archivo.txt");
 
-//    string str;
-//    while(lectura>>str)
-//    {
-//        cout<<"->"<<str<<endl;
-//    }
+    string str;
+    while(lectura>>str)
+    {
+        cout<<"->"<<str<<endl;
+    }
 
     lectura.close();
 //    while(!lectura.eof())
