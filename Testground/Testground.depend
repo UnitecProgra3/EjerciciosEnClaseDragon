@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1455552636 source:/home/turupawn/Clases/Progra3Dragon/Testground/A.cpp
+	"A.h"
+
+1455552982 /home/turupawn/Clases/Progra3Dragon/Testground/A.h
+
+1455552819 source:/home/turupawn/Clases/Progra3Dragon/Testground/B.cpp
+	"B.h"
+
+1455553005 /home/turupawn/Clases/Progra3Dragon/Testground/B.h
+	"A.h"
+
+1455552856 source:/home/turupawn/Clases/Progra3Dragon/Testground/main.cpp
+	<iostream>
+	"A.h"
+	"B.h"
+
